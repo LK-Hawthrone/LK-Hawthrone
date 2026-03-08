@@ -34,9 +34,10 @@ My actual goal is to transition from hobbyist projects to professional research,
 ---
 
 ### 📫 Open Protocols
+-  💻 **LinkedIn:** https://www.linkedin.com/in/filipe-leonardo-corr%C3%AAa-ramos-147b503b5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B49U8RXPfSR63pRAcEhJCfg%3D%3D
 - 💼 **Lattes Curriculum:** https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=917838FEB4E22B498BA8C4CBC3ECCBF2#
 - 📧 **Direct Frequency:** Lawrencekimerahawthrone@gmail.com 
-- 📍 **Target Destination:** São José dos Campos, Brazil (or NASA JPL... Or SpaceX... Or whoever hires me first. XD).
+- 📍 **Target Destination:** São José dos Campos, Brazil (or NASA JPL... Or ESOC on Darmstadt... Or SpaceX on california... Or whoever hires me first. XD).
 
 *"Data is the DNA of the soul. It shapes our knowledge, it fills our mission."*
 
