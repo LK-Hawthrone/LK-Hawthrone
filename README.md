@@ -8,17 +8,24 @@ I am a 19-year-old Computer Science student and a self-taught developer driven b
 My actual goal is to transition from hobbyist projects to professional research, specifically within the **Aerospace Ground Segment**, **Satellites**, **Geospatial Intelligence** and **Mission Critical Systems** ecosystem in São José dos Campos, SP. But I'm open for every segment of the Aerospace Sector, wich means even out of Brazil.
 
 ---
+## Technical Skills & Interests
 
-### 📏 The Rules of Nature (Technical Interests)
-* 🛰️ **Mission Systems Study:** Exploring the fundamentals of ground segment software and data processing (inspired by the **NASA's Deep Space Network (DSN)** framework).
-* 📐 **Applied Math with Kalman & SVD:** Investigating data efficiency through **Singular Value Decomposition** and **Kalman Filters** using math to solve real-world storage, navigation and bandwidth constraints.
-* 🛡️ **Security Foundations:** Building hobbyist backends with a focus on **Information Security**, implementing AES/RSA (Or more recently, ChaCha20-Poly1307 and the family of asymmetric cryptographies based on Curve25519) and following "Privacy by Design" principles (Especially since I'm **already familiar with LGPD and GDPR**).
-* 🏗️ **Software Quality:** Currently studying **ISO/IEC 25010** and **12207** to move my code beyond "it works" and into "it's reliable."
+​🔭 Current Research & Development (The Focus)
+​Aerospace Ground Segments: Studying data processing pipelines and telemetry handling, inspired by the NASA Deep Space Network (DSN) architecture.
+​Computational Linear Algebra: Implementing SVD (Singular Value Decomposition) and Kalman Filters for noise reduction, data compression, and state estimation.
+​High-Reliability Engineering: Applying ISO/IEC 25010 & 12207 standards to ensure software quality and predictable behavior in mission-critical environments.
+​Advanced Cryptography: Moving beyond basics into ChaCha20-Poly1305 and Curve25519 for resilient, "Privacy by Design" communication.
 
-### 🛠️ The Toolkit (Learning & Building)
-- **Primary Languages:** Python (NumPy, SciPy), Lua, C (Learning the ropes of low-level/embedded).
-- **Backend Foundations:** Flask, RESTful APIs, SQLite/MySQL, XML/JSON.
-- **Tools & Environment:** Linux, Cloudflare, 2FA/MFA implementation, Hardening basics.
+​🏛️ Established Expertise (Legacy Skills)
+​Backend Architecture: Solid foundation in Python/Flask, RESTful APIs, and relational databases (SQLite/MySQL).
+​Systems Administration: Linux hardening, shell scripting, and infrastructure management—the result of my early days in IT support.
+​Information Security: Practical experience with MFA/2FA implementation, Cloudflare shielding, and compliance with LGPD/GDPR.
+
+​🛠️ The Toolkit 
+​Languages: Python (NumPy, SciPy, Polars) — Daily Driver.
+​In Progress: C/C++ and Lua — Learning for embedded and low-level systems.
+​Data Structures: handling of XML, JSON, and matrix structures.
+​Environment: Full-time Linux user, proficient in CLI-based workflows and remote server management.
 
 ### 🔬 Current Lab Projects
 - **[SVD-Optimizer](link):** A personal project using Linear Algebra to compress and de-noise images for low-bandwidth scenarios.
