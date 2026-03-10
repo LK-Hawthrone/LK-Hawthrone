@@ -36,12 +36,11 @@ My actual goal is to transition from hobbyist projects to professional research,
 
 ### 🔬 Current Lab Projects
 - **[SVD-Optimizer](link):** A personal project using Linear Algebra to compress and de-noise images for low-bandwidth scenarios.
-- **[Secure-Backend-Lab](link):** Exploring cryptographic resilience and secure data handling in Python-based environments.
 
 ---
 
 ### 📫 Open Protocols
--  💻 **LinkedIn:** https://www.linkedin.com/in/filipe-leonardo-corr%C3%AAa-ramos-147b503b5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B49U8RXPfSR63pRAcEhJCfg%3D%3D
+- 💻 **LinkedIn:** www.linkedin.com/in/filipe-leon-c-ramos-147b503b5
 - 💼 **Lattes Curriculum:** https://lattes.cnpq.br/9546584265615457
 - 📧 **Direct Frequency:** Lawrencekimerahawthrone@gmail.com 
 - 📍 **Target Destination:** São José dos Campos, Brazil (or NASA JPL... Or ESOC... Or SpaceX... Or whoever hires me first. XD).
