@@ -5,7 +5,7 @@
 
 I am a 19-year-old Computer Science student and a self-taught developer driven by a fascination with how mathematics governs software reliability. For the past two years, I have been independently exploring the intersection of systems architecture, information security, and applied linear algebra (with the help of Prof. Stephen Boyd Materials like 'VMLS' and NASA's public archives especially the NASA's Technical Report Server).
 
-My actual goal is to transition from hobbyist projects to professional research, specifically within the **Aerospace Ground Segment**, **Satellites**, **Geospatial Intelligence** and **Mission Critical Systems** ecosystem in São José dos Campos, SP. But I'm open for every segment of the Aerospace Sector, wich means even out of Brazil.
+My actual goal is to transition from hobbyist projects to professional research, specifically within the **Aerospace Ground Segment**, **Satellites**, **Geospatial Intelligence** and **Mission Critical Systems** ecosystem in São José dos Campos, SP. But I'm open for every segment of the Aerospace Sector, which means even out of Brazil.
 
 ---
 
@@ -21,8 +21,7 @@ My actual goal is to transition from hobbyist projects to professional research,
 ​🔭 Current Research & Development (The Focus)
 - Aerospace Ground Segments: Studying data processing pipelines and telemetry handling, inspired by the NASA Deep Space Network (DSN) architecture.
 - Computational Linear Algebra: Implementing **SVD (Singular Value Decomposition)** and **Kalman Filters** for noise reduction, data compression, and state estimation.
-- ​High-Reliability Engineering: Applying **ISO/IEC 25010 & 12207** standards to ensure software quality and predictable behavior in mission-critical environments.
-- Studies in Cryptography: Moving beyond basics into **ChaCha20-Poly1305** and **Curve25519** for resilient, "Privacy by Design" communication.
+- ​High-Reliability Engineering: Applying **ISO/IEC 25010 & 12207** standards to ensure software quality and predictable behavior in mission-critical environments (in near future I pretend to study more about INCOSE, DO-178C, SysML and V-Models for Defense & Aerospace industry)
 
 ​🏛️ Established Expertise (Legacy Skills)
 - ​Backend Architecture: Solid foundation in Python, Flask for RESTful APIs, and relational databases (SQLite/MySQL).
@@ -45,7 +44,7 @@ My actual goal is to transition from hobbyist projects to professional research,
 -  💻 **LinkedIn:** https://www.linkedin.com/in/filipe-leonardo-corr%C3%AAa-ramos-147b503b5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B49U8RXPfSR63pRAcEhJCfg%3D%3D
 - 💼 **Lattes Curriculum:** https://lattes.cnpq.br/9546584265615457
 - 📧 **Direct Frequency:** Lawrencekimerahawthrone@gmail.com 
-- 📍 **Target Destination:** São José dos Campos, Brazil (or NASA JPL... Or ESOC on Darmstadt... Or SpaceX on california... Or whoever hires me first. XD).
+- 📍 **Target Destination:** São José dos Campos, Brazil (or NASA JPL... Or ESOC... Or SpaceX... Or whoever hires me first. XD).
+
 
 *"Data is the DNA of the soul. It shapes our knowledge, it fills our mission."*
-
