@@ -21,7 +21,7 @@ My actual goal is to transition from hobbyist projects to professional research,
 ​🔭 Current Research & Development (The Focus)
 - Aerospace Ground Segments: Studying data processing pipelines and telemetry handling, inspired by the NASA Deep Space Network (DSN) architecture.
 - Computational Linear Algebra: Implementing **SVD (Singular Value Decomposition)** and **Kalman Filters** for noise reduction, data compression, and state estimation.
-- ​High-Reliability Engineering: Applying **ISO/IEC 25010 & 12207** standards to ensure software quality and predictable behavior in mission-critical environments (in near future I pretend to study more about INCOSE, DO-178C, SysML and V-Models for Defense & Aerospace industry)
+- ​High-Reliability Engineering: Applying **ISO/IEC 25010 & 12207** standards to ensure software quality and predictable behavior in mission-critical environments (in near future I pretend to study more about INCOSE, DO-178C, CCSDS, SysML and V-Models for Defense & Aerospace industry)
 
 ​🏛️ Established Expertise (Legacy Skills)
 - ​Backend Architecture: Solid foundation in Python, Flask for RESTful APIs, and relational databases (SQLite/MySQL).
@@ -34,8 +34,8 @@ My actual goal is to transition from hobbyist projects to professional research,
 - ​Data Structures: handling of XML, JSON, and matrix structures.
 - ​Environment: Full-time Linux user, proficient in CLI-based workflows and remote server management.
 
-### 🔬 Current Lab Projects
-- **[SVD-Optimizer](link):** A personal project using Linear Algebra to compress and de-noise images for low-bandwidth scenarios.
+## 🔬 Current Lab Projects
+1. **[Orbital_SVD](https://github.com/LK-Hawthrone/orbital_svd):** A personal project using Linear Algebra with Python and XML to compress and de-noise images for low-bandwidth scenarios and a *little* compliance with CCSDS norms... A little.
 
 ---
 
