@@ -5,7 +5,7 @@
 
 I am a 19-year-old Computer Science student and a self-taught developer driven by a fascination with how mathematics governs software reliability. For the past two years, I have been independently exploring the intersection of systems architecture, information security, and applied linear algebra (with the help of Prof. Stephen Boyd Materials like 'VMLS' and NASA's public archives especially the NASA's Technical Report Server and NASA Systems Engineering Handbook).
 
-Although I am new to the field, I am striving to learn more and more about why my current goal is what it is to transition from hobbyist projects to professional research, specifically within the **Aerospace Ground Segment**, **Satellites**, **Geospatial Intelligence** and **Mission Critical Systems** ecosystem in São José dos Campos, SP. But I'm open for every segment of the Aerospace Sector, which means even out of Brazil.
+Although I am new to the field, I am striving to learn more and more about because my current goal is what it is to transition from hobbyist projects to professional research, specifically within the **Aerospace Ground Segment**, **Satellites**, **Geospatial Intelligence** and **Mission Critical Systems** ecosystem in São José dos Campos, SP. But I'm open for every segment of the Aerospace Sector, which means even out of Brazil.
 
 ---
 
