@@ -3,9 +3,9 @@
 
 ## "Greetings, Cyborg." 🐺🗡️
 
-I am a 19-year-old Computer Science student and a self-taught developer driven by a fascination with how mathematics governs software reliability. For the past two years, I have been independently exploring the intersection of systems architecture, information security, and applied linear algebra (with the help of Prof. Stephen Boyd Materials like 'VMLS' and NASA's public archives especially the NASA's Technical Report Server).
+I am a 19-year-old Computer Science student and a self-taught developer driven by a fascination with how mathematics governs software reliability. For the past two years, I have been independently exploring the intersection of systems architecture, information security, and applied linear algebra (with the help of Prof. Stephen Boyd Materials like 'VMLS' and NASA's public archives especially the NASA's Technical Report Server and NASA Systems Engineering Handbook).
 
-My actual goal is to transition from hobbyist projects to professional research, specifically within the **Aerospace Ground Segment**, **Satellites**, **Geospatial Intelligence** and **Mission Critical Systems** ecosystem in São José dos Campos, SP. But I'm open for every segment of the Aerospace Sector, which means even out of Brazil.
+Although I am new to the field, I am striving to learn more and more about why my current goal is what it is to transition from hobbyist projects to professional research, specifically within the **Aerospace Ground Segment**, **Satellites**, **Geospatial Intelligence** and **Mission Critical Systems** ecosystem in São José dos Campos, SP. But I'm open for every segment of the Aerospace Sector, which means even out of Brazil.
 
 ---
 
@@ -19,9 +19,9 @@ My actual goal is to transition from hobbyist projects to professional research,
 ## Technical Skills & Interests
 
 ​🔭 Current Research & Development (The Focus)
-- Aerospace Ground Segments: Studying data processing pipelines and telemetry handling, inspired by the NASA Deep Space Network (DSN) architecture.
-- Computational Linear Algebra: Implementing **SVD (Singular Value Decomposition)** and **Kalman Filters** for noise reduction, data compression, and state estimation.
-- ​High-Reliability Engineering: Applying **ISO/IEC 25010 & 12207** standards to ensure software quality and predictable behavior in mission-critical environments (in near future I pretend to study more about INCOSE, DO-178C, CCSDS, SysML and V-Models for Defense & Aerospace industry)
+- Aerospace Ground Segments: Studying data about processing pipelines and telemetry handling, inspired by the NASA Deep Space Network (DSN) architecture and the CCSDS.
+- Computational Linear Algebra: Implementing **SVD (Singular Value Decomposition)** and **Filters** (like Butterworth and Kalman) for noise reduction, data compression, and state estimation.
+- ​High-Reliability Engineering: In near future I pretend to study more about INCOSE, DO-178C, SysML and V-Models for Defense & Aerospace industry
 
 ​🏛️ Established Expertise (Legacy Skills)
 - ​Backend Architecture: Solid foundation in Python, Flask for RESTful APIs, and relational databases (SQLite/MySQL).
@@ -30,12 +30,12 @@ My actual goal is to transition from hobbyist projects to professional research,
 
 ​🛠️ The Toolkit 
 ​- Languages: Python (NumPy, SciPy, Matplotlib, Polars) — Daily Driver.
-- ​In Progress: C/C++ and Lua (Aiming to learn in near future for embedded and low-level systems).
+- ​On the radar: C/C++ and Lua (Aiming to learn in near future for embedded and low-level systems).
 - ​Data Structures: handling of XML, JSON, and matrix structures.
-- ​Environment: Full-time Linux user, proficient in CLI-based workflows and remote server management.
+- ​Environment: Full-time Linux user (Xubuntu).
 
 ## 🔬 Current Lab Projects
-1. **[Orbital_SVD](https://github.com/LK-Hawthrone/orbital_svd):** A personal project using Linear Algebra with Python and XML to compress and de-noise images for low-bandwidth scenarios and a *little* compliance with CCSDS norms... A little.
+1. **[Orbital_SVD](https://github.com/LK-Hawthrone/orbital_svd):** A personal study project using Linear Algebra with Python and XML to compress and de-noise images for low-bandwidth scenarios.
 
 ---
 
