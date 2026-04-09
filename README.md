@@ -21,7 +21,7 @@ Although I am new to the field, I am striving to learn more and more about becau
 ​🔭 Current Research & Development (The Focus)
 - Aerospace Ground Segments: Studying data about processing pipelines and telemetry handling, inspired by the NASA Deep Space Network (DSN) architecture and the CCSDS.
 - Computational Linear Algebra: Implementing **SVD (Singular Value Decomposition)** and **Filters** (like Butterworth and Kalman) for noise reduction, data compression, and state estimation.
-- ​High-Reliability Engineering: In near future I pretend to study more about INCOSE, DO-178C, SysML and V-Models for Defense & Aerospace industry
+- ​High-Assurance Engineering: In near future I pretend to study more about INCOSE, DO-178C, SysML and V-Models for Defense & Aerospace industry
 
 ​🏛️ Established Expertise (Legacy Skills)
 - ​Backend Architecture: Solid foundation in Python, Flask for RESTful APIs, and relational databases (SQLite/MySQL).
